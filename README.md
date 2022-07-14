@@ -1,2 +1,2 @@
-# basicGit
-Basic Git
+# LanuxOS
+# Basic Git
